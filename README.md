@@ -1,6 +1,6 @@
-<center>
 ### Hey there, I'm Shobhit Jain<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<center>
 <a href="www.linkedin.com/in/shobhitjain09/">
   <img align="left" alt="Shobhit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
